@@ -192,6 +192,9 @@ Was here!
 - [Priyanshu Singh](https://github.com/PriyanshuSingh44) - First contribution to open source!
 - [Amiraly](https://github.com/amiralitaherkhany) - Hiiii
 - [Balraj Choure](https://github.com/balraj009) – 🌟 First PR!
+- [Kanishka Wani](https://github.com/kanishkawani) – First step into the open-source world!✨
+
+
 
 - [Manmohan Singh](https://github.com/Manmohan1633) - Hello!!, Broke the ice with my first open-source PR. Many more to go.
 - 
